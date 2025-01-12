@@ -9,7 +9,7 @@
 **Most modern solutions leverage artificial intelligence (AI) and machine learning (ML) to manage data analysis, predictive modeling, decision-making, fraud alerts and remediation activity that occur when individual instances of credit card fraud are detected.**
 
 
-![This is an image](C:\Users\shall\Downloads\0601d980-5912-11eb-8486-3237a1e3c4cf.png)
+![This is an image](https://github.com/chauhanshallu/Credit-Card-Fraud-Detection/blob/main/0601d980-5912-11eb-8486-3237a1e3c4cf.png)
 
 
 
@@ -19,4 +19,4 @@
 
 **The image attached below indicates the sigmoid function used in logistic regression for the analysis of fraudulent transaction.**
 
-![This is an image]("C:\Users\shall\Downloads\spark-fraud-5-1605742798937.jpg")
+![This is an image](https://github.com/chauhanshallu/Credit-Card-Fraud-Detection/blob/main/spark-fraud-5-1605742798937.jpg)
